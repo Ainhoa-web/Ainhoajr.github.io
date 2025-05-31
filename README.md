@@ -1,10 +1,10 @@
 # (TarotArcano)
-Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada.
 
 ## 1 Datos
 Titulo : TarotArcano
 
-Web: 
+Web: https://ainhoa-web.github.io/Ainhoajr.github.io/ 
 
 Autor: Ainhoa Jiménez Romero
 
@@ -12,33 +12,33 @@ Resumen : El objetivo de la web es realizar tiradas de Tarot de manera segura.
 
 Estilo/género: web espiritual
 
-Logotipo : ![Estudio logotipo](https://github.com/user-attachments/assets/620c371f-632e-4cc6-9cc0-7fe61dc06d12)
+Logotipo : ![Estudio logotipo](https://github.com/user-attachments/assets/620c371f-632e-4cc6-9cc0-7fe61dc06d12)!
+[Logo](https://github.com/user-attachments/assets/6f6a2737-6c9c-46a3-9286-0b44fe967207)
 
 Resolución: width: 370px; height: 927px
 
 Probado en: MicrosoftEdge
 
-Tamaño proyecto: 40,2KB
+Tamaño proyecto: 109,8 MB
 
-Fecha : 14/05/2025
-
-Medios (donde se tiene presencia relacionada): yo que ze pare, ni idea hermano. No ze ni lo que voy a come mañana.
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Fecha : 14/05/2025 al 31/05/25
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-La web, a parte de la pantalla de inicio, constara de tres páginas: 
+La web, a parte de la pantalla de inicio, constara de tres escenas principales: 
 La primera para la protección antes de realizar la lectura, pues se juegan con energías cuyas intenciones no sabemos. Así aseguramos un trabajo seguro.
-La segunda para la lectura, que contendrá una explicación del procedimiento y consistirá en elegir una carta aleatoria que explicara cada punto a tratar de la vida del que pregunta. Al final aparecerán los créditos y tendrás la opción de volver al inicio.
+La segunda para la lectura, que contendrá una explicación del procedimiento y consistirá en elegir una carta aleatoria que explicará cada punto a tratar de la vida del que pregunta. Al final aparecerán los créditos y tendrás la opción de volver al inicio.
 La tercera página es por si se quieren informar sobre la simbología de las cartas.
 
+![WebTarot_Inicio_Boceto](https://github.com/user-attachments/assets/02eef630-73ce-4796-bc13-04b795b3e7d3)
+![WebTarot_Protección_Boceto](https://github.com/user-attachments/assets/0196e111-0076-4b29-98b5-9f3ee3226b09) 
+![WebTarot_DC_Boceto](https://github.com/user-attachments/assets/85b18eef-6f56-4924-b4d7-81d44787f9a7)
+
+
+
 ### 2.2. Esquema de navegación
-![Diagramaweb (1)](https://github.com/user-attachments/assets/75d17240-8a3f-4542-9d69-664c159d2336)
+
 
 
 ## 3. Metodología

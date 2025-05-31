@@ -34,12 +34,14 @@ La tercera página es por si se quieren informar sobre la simbología de las car
 ![WebTarot_Inicio_Boceto](https://github.com/user-attachments/assets/02eef630-73ce-4796-bc13-04b795b3e7d3)
 ![WebTarot_Protección_Boceto](https://github.com/user-attachments/assets/0196e111-0076-4b29-98b5-9f3ee3226b09) 
 ![WebTarot_DC_Boceto](https://github.com/user-attachments/assets/85b18eef-6f56-4924-b4d7-81d44787f9a7)
-
+![Mesa de trabajo miau](https://github.com/user-attachments/assets/e4da7406-273a-48ea-929a-31aa89751a62)
+![debilidades que debes abordar](https://github.com/user-attachments/assets/9d4003d1-c49b-47dc-8aa6-779a356231a4)
+![créditos](https://github.com/user-attachments/assets/26493396-d074-4fd2-a76e-2f762c377333)
+![AJUSTES](https://github.com/user-attachments/assets/0d6ab5dc-92ba-48a1-aaa8-479d74c9ed8e)
 
 
 ### 2.2. Esquema de navegación
-
-
+![Diagrama sin título (1)](https://github.com/user-attachments/assets/28f719a0-c7a8-47e4-88ff-b846269fdb9b)
 
 ## 3. Metodología
 
@@ -51,7 +53,7 @@ Orientado a lo público, xplora el mundo de la introspección más que de falsas
 -Etapa 2: Desarrollo / actividades realizadas
 Instrucciones y ayuda al usuario:
 El orden de ejecución de la web sería: al entrar leer el texto de introducción de la página y posteriormente entrar en ajustes para poner la música que quiera. Luego procedería a entrar en la primera opción llamada "protección", donde, con ayuda de la música, meditará y se protegerá de las malas energías. Cuando ya hubiera meditado, pulsaria el logo de la página para ir al inicio y proceder a la lectura. 
-Para la lectura es necesario que piense en una cuestión general de su vida, eliga una carta y presione siguiente. Aunque todavía no he podido llegar a esa parte del proyecto.
+Para la lectura es necesario que piense en una cuestión general de su vida, eliga una carta y presione siguiente. Entonces aparecerá aleatoriamente uana de las 5 cartas que deescribiran el primer aspecto de su vida "¿Dónde estás ahora?" relacionada con el presente. Cuando hubiera terminado de leer procedería a pulsar siguiente
 Por último, si le interesara el contenido individual de las cartas procedería a pinchar la tercera opción "Descripción de las cartas" para informarse.
 
 Menús y elementos de navegación (botones)

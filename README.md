@@ -51,10 +51,12 @@ Orientado a lo público, xplora el mundo de la introspección más que de falsas
 
 -Etapa 2: Desarrollo / actividades realizadas
 Instrucciones y ayuda al usuario:
-El orden de ejecución de la web sería: al entrar leer el texto de introducción de la página y posteriormente entrar en ajustes para poner la música que quiera. Luego procedería a entrar en la primera opción llamada "protección", donde, con ayuda de la música, meditará y se protegerá de las malas energías. Cuando ya hubiera meditado, pulsaria el logo de la página para ir al inicio y proceder a la lectura. 
-Para la lectura es necesario que piense en una cuestión general de su vida, eliga una carta y presione siguiente. Entonces aparecerá aleatoriamente uana de las 5 cartas que deescribiran el primer aspecto de su vida "¿Dónde estás ahora?" relacionada con el presente. Cuando hubiera terminado de leer procedería a pulsar siguiente
-Por último, si le interesara el contenido individual de las cartas procedería a pinchar la tercera opción "Descripción de las cartas" para informarse.
+Al entrar te encuentras con la página principal, que contiene una barra de herramientas en la parte superior (por lo general aparecerá en todas las escenas). Tres opciones que te llevarán a las siguientes tres escenas y una descripción del proyecto. Primero debería de leer la descripción e ir a “Ajustes” mediante el botón de la derecha superior (tres cartas), y entonces elegir una pista de audio, darle a play y ajustar el volumen para mejor experiencia espiritual. 
 
+Acto seguido, debería darle al logo para volver a la página principal para elegir la opción de protección. Seguir los pasos marcados para protegerse y volver al menú principal. 
+Luego debería seleccionar la lectura, leer el proceso, y elegir entre 5 cartas para darle al botón de “listo”. Iría hacia arriba del todo y leería el análisi de ese apartado de la lectura. y así dos veces más, para luego darle a listo e ir a los “Créditos”. 
+
+Cuando hubiere terminado de leer los créditos debería de volver a la página principal y, si le apetece, seleccionar la última opción y leer la descripción de las cartas, que puede pasar mediante teclas.
 Menús y elementos de navegación (botones)
 De momento contiene cinco páginas. 
 La primera escena es la de Inicio y contiene--> tres falsos botones: el primero nos lleva a la escena de "Protección", el segundo nos lleva a la escena de "Lectura"y el tercero nos lleva a la escena de "Deescripción de las cartas". Dos botones superiores para ir al inicio y un botón inferior para ir a "Ajustes".
@@ -64,11 +66,16 @@ La cuarta escena es la de "Descripción de las cartas" y contiene --> Dos botone
 Por último, de momento, la escena de "Ajustes" que contiene --> Dos botones superiores para ir al incio, un campo de texto para elegir pista, un botón para dar play y un controlador para el volumen.
 
 Etapa 3: Problemas identificados
-Además de que todavía no está completo, las imágenes no se han vectorizado y se ven mal. 
+La web contiene numerosos errores que me hubiera gustado corregir antes.
+Todas las imágenes aparecen borrosas porque no sabía que tenía que vectorizarlas y, cuando ya iba por más de la mitad del proyecto no pude cambiarlo todo por tiempo.
+El formato de la web no está preparado para un formato pc en pantalla completa porque se ve demasiado grande.
+Cuando le das a un botón no apareces al principio de la página, aunque esto no tiene solución.
+La animación se ve pixelada en los bordes.
+
+Me hubiera gustado jugar con las 21 cartas aunque por falta de tiempo solo pude avanzar con 5. Es cierto que es poco intuitivo el esquema de navegación de la lectura. Hubiera sido mejor opción que, en el botón, en vez de poner “listo” pusiese “siguiente”. 
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-Ha sido muy chulo hacer mi propia página web, creo que tiene mucho potencial para ser una buena página web de Tarot y que produzca tiradas introspectivas y completas. En la siguiente práctica haré las páginas que me quedan.
+Ha sido muy chulo hacer mi propia página web, creo que tiene mucho potencial para ser una buena página web de Tarot y que produzca tiradas introspectivas y completas. En el futuro me gustaría arreglar todos los desperfectos y agregar las 21 páginas. Creo que la la estructura de la lectura es bastante completa y la estética, que es mi especialidad porque me encanta el diseño, está muy guay.
 
 ## 5 Referencias
 **Artículos y blogs **

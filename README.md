@@ -25,7 +25,6 @@ Fecha : 14/05/2025 al 31/05/25
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 La web, a parte de la pantalla de inicio, constara de tres escenas principales: 
 La primera para la protección antes de realizar la lectura, pues se juegan con energías cuyas intenciones no sabemos. Así aseguramos un trabajo seguro.
 La segunda para la lectura, que contendrá una explicación del procedimiento y consistirá en elegir una carta aleatoria que explicará cada punto a tratar de la vida del que pregunta. Al final aparecerán los créditos y tendrás la opción de volver al inicio.
@@ -45,7 +44,7 @@ La tercera página es por si se quieren informar sobre la simbología de las car
 
 ## 3. Metodología
 
--Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+-Etapa 1: Metodología de desarrollo de productos multimedia 
 
 Este proyecto es interesante porque explora una nueva rama dentro de las páginas web de Tarot Online, donde aparecen deescripciones de cartas y una estética de diseño llamativa.
 Orientado a lo público, xplora el mundo de la introspección más que de falsas esperanzas de futuro, y te propone un ejercicio de agradecimiento para meditar y "protegerte" a ti mismo.
